@@ -1,0 +1,15 @@
+curl -X GET http://localhost:3000/fetchReviews/dealer/1
+
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "dealership": 1,
+    "review": "Great service and friendly staff!",
+    "purchase": true,
+    "purchase_date": "06/05/2025",
+    "car_make": "Toyota",
+    "car_model": "Camry",
+    "car_year": 2024
+  }
+]
