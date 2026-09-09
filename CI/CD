@@ -1,0 +1,6 @@
+Setup Job
+Run actions/checkout@v2
+Set up Python 3.8
+Install dependencies
+Run Tests
+Workflow completed successfully
