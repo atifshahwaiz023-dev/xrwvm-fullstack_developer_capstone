@@ -1,0 +1,52 @@
+curl -X GET http://localhost:3000/fetchDealers/KS
+
+[
+  {
+    "id": 5,
+    "city": "Wichita",
+    "state": "Kansas",
+    "st": "KS",
+    "address": "123 Main Street",
+    "zip": "67202",
+    "lat": 37.6872,
+    "long": -97.3301,
+    "short_name": "Kansas Auto Plaza",
+    "full_name": "Kansas Auto Plaza Inc"
+  },
+  {
+    "id": 6,
+    "city": "Overland Park",
+    "state": "Kansas",
+    "st": "KS",
+    "address": "456 Prairie Rd",
+    "zip": "66210",
+    "lat": 38.9822,
+    "long": -94.6708,
+    "short_name": "Prairie Motors",
+    "full_name": "Prairie Motors Group"
+  },
+  {
+    "id": 7,
+    "city": "Kansas City",
+    "state": "Kansas",
+    "st": "KS",
+    "address": "789 Riverfront Dr",
+    "zip": "66101",
+    "lat": 39.1155,
+    "long": -94.6267,
+    "short_name": "Riverfront Auto",
+    "full_name": "Riverfront Auto Sales"
+  },
+  {
+    "id": 8,
+    "city": "Topeka",
+    "state": "Kansas",
+    "st": "KS",
+    "address": "101 Capital Ave",
+    "zip": "66603",
+    "lat": 39.0473,
+    "long": -95.6752,
+    "short_name": "Capital City Cars",
+    "full_name": "Capital City Cars LLC"
+  }
+]
