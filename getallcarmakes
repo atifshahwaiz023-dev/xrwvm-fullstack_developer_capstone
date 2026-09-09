@@ -1,0 +1,24 @@
+curl -X GET http://localhost:3000/fetchcars
+
+[
+  {
+    "Make": "Toyota",
+    "Model": "Camry"
+  },
+  {
+    "Make": "Toyota",
+    "Model": "Corolla"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Civic"
+  },
+  {
+    "Make": "Honda",
+    "Model": "Accord"
+  },
+  {
+    "Make": "Ford",
+    "Model": "Mustang"
+  }
+]
